@@ -7,6 +7,56 @@ html, body{
   font-family: Georgia, serif;
   color:rgb(0, 0, 0);
 }
+
+/* RESUME   RESUME  RESUME  RESUME */
+.title {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    text-align: center;
+}
+
+.row-format {
+    padding-bottom: 2rem;
+}
+
+.header-1-right {
+    font-size: 1.5em;
+    text-align: right;
+    padding-right: 30px;
+}
+
+.header-1-center {
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.header-1-left {
+    font-size: 1.5em;
+    text-align: left;
+    padding-left: 30px;
+}
+
+.header-2-right {
+    font-size: 1.1em;
+    text-align: right;
+    padding-right: 30px;
+}
+
+.header-2-center {
+    font-size: 1.1em;
+    text-align: left;
+    display: inline-block;
+}
+
+.header-2-left {
+    font-size: 1.1em;
+    text-align: left;
+    padding-left: 30px;
+}
+
+
+
+
 .navbar{
   padding: .8rem;
 }
@@ -15,7 +65,7 @@ html, body{
   height: 70px;
 }
 .navbar-nav li{
-  padding-right: 20px;
+    padding-right: 20px;
 }
 .nav-link{
   font-size: 1.1em !important;
@@ -57,7 +107,7 @@ html, body{
 .welcome {
   width: 75%;
   margin: 0 auto;
-  padding-top: 2rem;
+  padding-top: 4rem;
 }
 .welcome hr {
   border-top: 2px solid #b4b4b4;
