@@ -1,6 +1,6 @@
 # Personal Website
 
-The goal of this personal website are two-fold.
+The goal of this personal website are two-fold:
 
 1. Building this from the ground up has provided me with effective experience working with HTML and CSS.
 
